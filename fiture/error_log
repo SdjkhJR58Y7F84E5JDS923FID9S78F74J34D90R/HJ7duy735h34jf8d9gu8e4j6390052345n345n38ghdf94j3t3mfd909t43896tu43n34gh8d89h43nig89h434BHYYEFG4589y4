@@ -1,0 +1,51 @@
+[11-Aug-2017 17:19:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:19:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:19:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:19:21 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:19:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dnkid/public_html/fiture/transaksi.php on line 62
+[11-Aug-2017 17:19:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dnkid/public_html/fiture/transaksi.php on line 62
+[11-Aug-2017 17:19:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:19:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:19:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:19:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dnkid/public_html/fiture/transaksi.php on line 62
+[11-Aug-2017 17:21:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:21:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:21:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:21:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:21:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:22:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:22:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:22:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:22:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:23:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:23:12 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:26:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dnkid/public_html/fiture/user.php on line 63
+[11-Aug-2017 17:26:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:26:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dnkid/public_html/fiture/user.php on line 45
+[11-Aug-2017 17:38:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:39:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dnkid/public_html/fiture/tools1().php on line 39
+[11-Aug-2017 17:40:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:40:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:40:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:40:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:41:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:42:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:42:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:42:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:42:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:42:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:43:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:43:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:45:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:45:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:45:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:47:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:47:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:47:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:48:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:49:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:49:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:49:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:49:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:50:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
+[11-Aug-2017 17:50:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dnkid/public_html/koneksi.php on line 8
